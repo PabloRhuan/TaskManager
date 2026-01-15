@@ -50,8 +50,9 @@ TaskManager/
 ## ▶️ Como Executar
 
 1. Clone o repositório:
-   ```bash
+```bash
 git clone https://github.com/SEU_USUARIO/TaskManager.git
+```
 2. Abra o projeto no Visual Studio
 3. Execute com:
   F5
